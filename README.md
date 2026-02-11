@@ -1,2 +1,2 @@
-# h-c-l-p-tr-nh
+# Học Lập Trình
 Repository về học lập trình
